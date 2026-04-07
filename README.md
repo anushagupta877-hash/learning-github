@@ -8,3 +8,20 @@ Currently learning:
 - Basic version control concepts
 
 More projects coming soon!
+
+# Student Task Manager (Python)
+
+This is a simple Python project that allows users to manage tasks from the terminal.
+
+Features:
+- Add tasks
+- View tasks
+- Remove tasks
+
+Concepts used:
+- Python lists
+- loops
+- conditional statements
+- user input
+
+This project was built while learning Python and exploring GitHub.

@@ -25,3 +25,13 @@ Concepts used:
 - user input
 
 This project was built while learning Python and exploring GitHub.
+
+## Password Generator (Python)
+
+A simple Python program that generates a random password based on the length entered by the user.
+
+Concepts used:
+- random module
+- string module
+- loops
+- user input

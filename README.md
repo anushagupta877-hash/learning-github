@@ -1,34 +1,60 @@
-# Learning GitHub
+# Python Mini Projects
 
-This is my first repository while exploring how GitHub works.
+A collection of simple command-line Python applications built to practice core programming concepts and problem-solving.  
+These projects focus on implementing fundamental logic using Python while building small, functional tools.
 
-Currently learning:
-- How repositories work
-- How to edit files
-- Basic version control concepts
+---
 
-More projects coming soon!
+## Projects
 
-# Student Task Manager (Python)
+### 📋 Student Task Manager
 
-This is a simple Python project that allows users to manage tasks from the terminal.
+A terminal-based task management application that allows users to organize and manage their daily tasks.
 
-Features:
-- Add tasks
-- View tasks
-- Remove tasks
+**Features**
+- Add new tasks
+- View all existing tasks
+- Remove completed or unwanted tasks
 
-Concepts used:
-- Python lists
-- loops
-- conditional statements
-- user input
+**Concepts Used**
+- Lists for task storage
+- Loops for continuous interaction
+- Conditional statements for user choices
+- User input handling
 
-This project was built while learning Python and exploring GitHub.
+This project demonstrates how basic data structures and control flow can be used to build an interactive command-line application.
 
-## Password Generator (Python)
+---
 
-A simple Python program that generates a random password based on the length entered by the user.
+### 🔐 Password Generator
+
+A Python-based tool that generates secure random passwords based on the length specified by the user.
+
+**Features**
+- User-defined password length
+- Random generation of secure characters
+- Combination of letters, numbers, and symbols
+
+**Concepts Used**
+- `random` module for generating random characters
+- `string` module for character sets
+- Loops for password construction
+- User input processing
+
+This project highlights how Python’s built-in modules can be used to generate strong passwords programmatically.
+
+---
+
+## Tech Stack
+
+- Python
+- Command Line Interface (CLI)
+
+---
+
+## Purpose
+
+The goal of this repository is to practice implementing small Python applications while strengthening programming fundamentals such as logic building, control flow, and modular thinking.
 
 Concepts used:
 - random module
